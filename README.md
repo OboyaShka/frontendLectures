@@ -1,1 +1,1 @@
-# frontendLectures
+# Frontend Lectures
