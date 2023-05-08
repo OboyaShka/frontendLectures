@@ -134,3 +134,5 @@ Rendering tree объекты нужны для последующих стад�
 - [Что делает браузер, чтобы загрузить страницу?](https://www.youtube.com/watch?v=ylG8_d9Qk1U)
 - [Как работает браузер?](https://www.youtube.com/watch?v=6aNT-ZmY9rU)
 - [Клиентская оптимизация](https://www.youtube.com/watch?v=sMPO-DVJCH4)
+- [Процесс загрузки веб-страницы](https://www.youtube.com/watch?v=jBvkN8_c7t8)
+- [Шифрование в TLS/SSL](https://www.youtube.com/watch?v=kCkQRH5eweg)
