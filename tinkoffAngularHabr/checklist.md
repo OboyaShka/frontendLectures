@@ -1,6 +1,6 @@
 # [IT’s Tinkoff — просто о сложном](https://habr.com/ru/companies/tinkoff/articles/) :white_check_mark: 7/93 
 
-Посты | Дата | Время чтения | Ознакомление 7/93 
+Посты | Дата | Время чтения | Ознакомление 8/93 
 :------------ | :------------ | :-------------|  :-------------| 
 [Асинхронная добыча меток utm](https://habr.com/ru/companies/tinkoff/articles/201674/) | 11.11.2013 | 4 мин | :white_large_square:
 [Повышаем стабильность Front-end](https://habr.com/ru/companies/tinkoff/articles/251421/) | 25.02.2015 | 7 мин | :white_large_square:
@@ -61,7 +61,7 @@
 [Паттерн порталов в Angular: для чего нужен root-компонент в Taiga UI](https://habr.com/ru/companies/tinkoff/articles/539302/) | 26.01.2021 | 6 мин | :white_large_square:
 [Учим HostBinding работать с Observable](https://habr.com/ru/companies/tinkoff/articles/542984/) | 26.02.2021 | 6 мин | :white_large_square:
 [Angular: Показываем скелетон страницы за три шага](https://habr.com/ru/companies/tinkoff/articles/544948/) | 02.03.2021 | 5 мин | :white_large_square:
-[Как мы делаем базовые компоненты в Taiga UI более гибкими: концепция контроллеров компонента в Angular](https://habr.com/ru/companies/tinkoff/articles/546178/) | 09.03.2021 | 6 мин | :white_large_square:
+[Как мы делаем базовые компоненты в Taiga UI более гибкими: концепция контроллеров компонента в Angular](https://habr.com/ru/companies/tinkoff/articles/546178/) | 09.03.2021 | 6 мин | :white_check_mark:
 [Angular Universal: проблемы реального приложения](https://habr.com/ru/companies/tinkoff/articles/547520/) | 17.03.2021 | 9 мин | :white_large_square:
 [Глобальные объекты в Angular](https://habr.com/ru/companies/tinkoff/articles/548510/) | 29.03.2021 | 6 мин | :white_large_square:
 [Упрощаем работу с Angular с помощью @taiga-ui/cdk: 5 наших лучших практик](https://habr.com/ru/companies/tinkoff/articles/556660/) | 11.05.2021 | 5 мин | :white_large_square:
