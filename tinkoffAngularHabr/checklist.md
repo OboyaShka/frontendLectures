@@ -1,7 +1,7 @@
-# [IT’s Tinkoff — просто о сложном](https://habr.com/ru/companies/tinkoff/articles/) :white_check_mark: 8/93 
+# [IT’s Tinkoff — просто о сложном](https://habr.com/ru/companies/tinkoff/articles/) :white_check_mark: 11/93 
 
-Посты | Дата | Время чтения | Ознакомление 8/93 
-:------------ | :------------ | :-------------|  :-------------| 
+Посты | Дата | Время чтения | Ознакомление
+:------------ | :------------ | :-------------|  :-------------|
 [Асинхронная добыча меток utm](https://habr.com/ru/companies/tinkoff/articles/201674/) | 11.11.2013 | 4 мин | :white_large_square:
 [Повышаем стабильность Front-end](https://habr.com/ru/companies/tinkoff/articles/251421/) | 25.02.2015 | 7 мин | :white_large_square:
 [Как мы разрабатываем новый фронтенд Tinkoff.ru](https://habr.com/ru/companies/tinkoff/articles/303580/) | 23.06.2016 | 10 мин | :white_check_mark:
@@ -73,7 +73,7 @@
 [Bindon: малоизвестные фишки шаблонов Angular](https://habr.com/ru/companies/tinkoff/articles/564622/) | 25.06.2021 | 4 мин | :white_large_square:
 [Обезболиваем RegEx](https://habr.com/ru/companies/tinkoff/articles/570894/) | 02.08.2021 | 5 мин | :white_large_square:
 [Компоненты-конструкторы: мощь ng-content в Angular](https://habr.com/ru/companies/tinkoff/articles/573660/) | 19.08.2021 | 9 мин | :white_check_mark:
-[Концепция контроллеров компонента в Angular: часть вторая](https://habr.com/ru/companies/tinkoff/articles/578904/) | 20.09.2021 | 7 мин | :white_large_square:
+[Концепция контроллеров компонента в Angular: часть вторая](https://habr.com/ru/companies/tinkoff/articles/578904/) | 20.09.2021 | 7 мин | :white_check_mark:
 [Небинарный *ngIf](https://habr.com/ru/companies/tinkoff/articles/580172/) | 27.09.2021 | 3 мин | :white_large_square:
 [«Боты должны работать, разработчики должны думать»: пишем Github App на Node.js](https://habr.com/ru/companies/tinkoff/articles/580936/) | 01.10.2021 | 6 мин | :white_large_square:
 [OnPush — ваш новый Default](https://habr.com/ru/companies/tinkoff/articles/581378/) | 04.10.2021 | 6 мин | :white_check_mark:
@@ -89,9 +89,9 @@
 [Taiga UI: год в Open Source](https://habr.com/ru/companies/tinkoff/articles/649685/) | 04.02.2022 | 4 мин | :white_large_square:
 [Три слоя градиента одного слайдера](https://habr.com/ru/companies/tinkoff/articles/667254/) | 23.05.2022 | 11 мин | :white_large_square:
 [(Микро)фронтенды и микросервисы с помощью Webpack](https://habr.com/ru/companies/tinkoff/articles/701152/) | 24.11.2022 | 8 мин | :white_large_square:
-[Год Тигра в Taiga UI](https://habr.com/ru/companies/tinkoff/articles/707050/) | 22.12.2022 | 8 мин | :white_large_square:
+[Год Тигра в Taiga UI](https://habr.com/ru/companies/tinkoff/articles/707050/) | 22.12.2022 | 8 мин | :white_check_mark:
 [История о том, как мы на Module Federation съезжали. Часть 1](https://habr.com/ru/companies/oleg-bunin/articles/718302/) | 22.02.2023 | 5 мин | :white_large_square:
 [История о том, как мы на Module Federation съезжали. Часть 2](https://habr.com/ru/companies/oleg-bunin/articles/726880/) | 05.04.2023 | 7 мин | :white_large_square:
 [Трудности маскирования текстового поля](https://habr.com/ru/companies/tinkoff/articles/727368/) | 07.04.2023 | 6 мин | :white_large_square:
-[Наблюдение за температурой: введение в холодные и горячие Observable в rxjs](https://habr.com/ru/companies/tinkoff/articles/729808/) | 18.04.2023 | 4 мин | :white_large_square:
+[Наблюдение за температурой: введение в холодные и горячие Observable в rxjs](https://habr.com/ru/companies/tinkoff/articles/729808/) | 18.04.2023 | 4 мин | :white_check_mark:
 [Как сделать декларативный роутинг диалогов в Angular на примере Taiga UI](https://habr.com/ru/companies/tinkoff/articles/731376/) | 25.04.2023 | 6 мин | :white_large_square:
