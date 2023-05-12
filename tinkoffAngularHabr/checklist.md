@@ -1,4 +1,4 @@
-# [IT’s Tinkoff — просто о сложном](https://habr.com/ru/companies/tinkoff/articles/) :white_check_mark: 7/93 
+# [IT’s Tinkoff — просто о сложном](https://habr.com/ru/companies/tinkoff/articles/) :white_check_mark: 8/93 
 
 Посты | Дата | Время чтения | Ознакомление 8/93 
 :------------ | :------------ | :-------------|  :-------------| 
