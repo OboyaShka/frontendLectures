@@ -45,7 +45,7 @@
 [Нативный способ покрасить SVG-иконки](https://habr.com/ru/companies/tinkoff/articles/512082/) | 22.07.2020 | 2 мин | :white_large_square:
 [Как писать хорошие библиотеки под Angular](https://habr.com/ru/companies/tinkoff/articles/512608/) | 27.07.2020 | 6 мин | :white_large_square:
 [Топ-10 Angular-приемов, выбранных сообществом](https://habr.com/ru/companies/tinkoff/articles/514928/) | 12.08.2020 | 4 мин | :white_large_square:
-[Что можно положить в механизм Dependency Injection в Angular?](https://habr.com/ru/companies/tinkoff/articles/516622/) | 26.08.2020 | 5 мин | :white_large_square:
+[Что можно положить в механизм Dependency Injection в Angular?](https://habr.com/ru/companies/tinkoff/articles/516622/) | 26.08.2020 | 5 мин | :white_check_mark:
 [Angular Meetup #18: как это было](https://habr.com/ru/companies/tinkoff/articles/518392/) | 09.09.2020 | 2 мин | :white_large_square:
 [5 советов для прокачки своих навыков в Angular](https://habr.com/ru/companies/tinkoff/articles/519052/) | 14.09.2020 | 9 мин | :white_large_square:
 [Возможности Angular DI, о которых почти ничего не сказано в документации](https://habr.com/ru/companies/tinkoff/articles/523160/) | 13.10.2020 | 6 мин | :white_large_square:
