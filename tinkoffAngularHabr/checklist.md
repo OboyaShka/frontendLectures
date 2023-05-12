@@ -1,4 +1,6 @@
-Посты | Дата | Время чтения | Ознакомление :white_check_mark: 
+# [IT’s Tinkoff — просто о сложном](https://habr.com/ru/companies/tinkoff/articles/) :white_check_mark: 7/93 
+
+Посты | Дата | Время чтения | Ознакомление 7/93 
 :------------ | :------------ | :-------------|  :-------------| 
 [Асинхронная добыча меток utm](https://habr.com/ru/companies/tinkoff/articles/201674/) | 11.11.2013 | 4 мин | :white_large_square:
 [Повышаем стабильность Front-end](https://habr.com/ru/companies/tinkoff/articles/251421/) | 25.02.2015 | 7 мин | :white_large_square:
@@ -74,7 +76,7 @@
 [Концепция контроллеров компонента в Angular: часть вторая](https://habr.com/ru/companies/tinkoff/articles/578904/) | 20.09.2021 | 7 мин | :white_large_square:
 [Небинарный *ngIf](https://habr.com/ru/companies/tinkoff/articles/580172/) | 27.09.2021 | 3 мин | :white_large_square:
 [«Боты должны работать, разработчики должны думать»: пишем Github App на Node.js](https://habr.com/ru/companies/tinkoff/articles/580936/) | 01.10.2021 | 6 мин | :white_large_square:
-[OnPush — ваш новый Default](https://habr.com/ru/companies/tinkoff/articles/581378/) | 04.10.2021 | 6 мин | :white_large_square:
+[OnPush — ваш новый Default](https://habr.com/ru/companies/tinkoff/articles/581378/) | 04.10.2021 | 6 мин | :white_check_mark:
 [Как мутировать код в Angular-схематиках и не поседеть](https://habr.com/ru/companies/tinkoff/articles/582120/) | 07.10.2021 | 7 мин | :white_large_square:
 [Самосохраняющийся компонент выбора](https://habr.com/ru/companies/tinkoff/articles/582738/) | 11.10.2021 | 4 мин | :white_large_square:
 [Ленивая подгрузка библиотек из CDN в Angular](https://habr.com/ru/companies/tinkoff/articles/585534/) | 26.10.2021 | 4 мин | :white_large_square:
