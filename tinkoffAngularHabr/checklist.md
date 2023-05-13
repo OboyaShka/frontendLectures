@@ -1,4 +1,4 @@
-# [IT’s Tinkoff — просто о сложном](https://habr.com/ru/companies/tinkoff/articles/) :white_check_mark: 12/93 
+# [IT’s Tinkoff — просто о сложном](https://habr.com/ru/companies/tinkoff/articles/) :white_check_mark: 15/93 
 
 Посты | Дата | Время чтения | Ознакомление
 :------------ | :------------ | :-------------|  :-------------|
@@ -10,7 +10,7 @@
 [Пишем телеграм бота-парсера вакансий на JS](https://habr.com/ru/companies/tinkoff/articles/337940/) | 03.10.2017 | 7 мин | :white_large_square:
 [Юнит-тестирование. Чип-тюнинг](https://habr.com/ru/companies/tinkoff/articles/349332/) | 15.03.2018 | 5 мин | :white_large_square:
 [Генератор статических сайтов metalsmith](https://habr.com/ru/companies/tinkoff/articles/353022/) | 28.04.2018 | 5 мин | :white_large_square:
-[Оптимизация обработки событий в Angular](https://habr.com/ru/companies/tinkoff/articles/429692/) | 14.11.2018 | 8 мин | :white_large_square:
+[Оптимизация обработки событий в Angular](https://habr.com/ru/companies/tinkoff/articles/429692/) | 14.11.2018 | 8 мин | :white_check_mark:
 [ControlValueAccessor и contenteditable в Angular](https://habr.com/ru/companies/tinkoff/articles/443714/) | 06.05.2019 | 5 мин | :white_large_square:
 [Сборка библиотеки angular-компонентов в виде веб-компонентов](https://habr.com/ru/companies/tinkoff/articles/456462/) | 17.06.2019 | 6 мин | :white_large_square:
 [Собираем окружение для современного TDD на JavaScript + VS code](https://habr.com/ru/companies/tinkoff/articles/461737/) | 29.07.2019 | 2 мин | :white_large_square:
@@ -31,7 +31,7 @@
 [Сказ о том, как я автоматизировал квартиру с помощью Node-RED. Часть I](https://habr.com/ru/companies/tinkoff/articles/487984/) | 12.02.2020 | 10 мин | :white_large_square:
 [Что такое производительность веб-приложений?](https://habr.com/ru/companies/tinkoff/articles/489230/) | 20.02.2020 | 5 мин | :white_large_square:
 [Сказ о том, как я автоматизировал квартиру с помощью Node-RED. Часть II](https://habr.com/ru/companies/tinkoff/articles/489774/) | 25.02.2020 | 9 мин | :white_large_square:
-[Прокачиваем работу с событиями в Angular](https://habr.com/ru/companies/tinkoff/articles/492766/) | 17.03.2020 | 5 мин | :white_large_square:
+[Прокачиваем работу с событиями в Angular](https://habr.com/ru/companies/tinkoff/articles/492766/) | 17.03.2020 | 5 мин | :white_check_mark:
 [Декларативный шопинг в интернете с помощью Payment Request API и Angular](https://habr.com/ru/companies/tinkoff/articles/492700/) | 18.03.2020 | 5 мин | :white_large_square:
 [Пишем Ретровейв на Angular](https://habr.com/ru/companies/tinkoff/articles/493622/) | 23.03.2020 | 10 мин | :white_large_square:
 [Angular для Vue разработчиков](https://habr.com/ru/companies/tinkoff/articles/495826/) | 06.04.2020 | 13 мин | :white_large_square:
@@ -59,7 +59,7 @@
 [Taiga UI — библиотека компонентов под Angular, которую вам стоит попробовать](https://habr.com/ru/companies/tinkoff/articles/536866/) | 12.01.2021 | 5 мин | :white_large_square:
 [Open-Closed Principle в Angular](https://habr.com/ru/companies/tinkoff/articles/537958/) | 19.01.2021 | 8 мин | :white_large_square:
 [Паттерн порталов в Angular: для чего нужен root-компонент в Taiga UI](https://habr.com/ru/companies/tinkoff/articles/539302/) | 26.01.2021 | 6 мин | :white_large_square:
-[Учим HostBinding работать с Observable](https://habr.com/ru/companies/tinkoff/articles/542984/) | 26.02.2021 | 6 мин | :white_large_square:
+[Учим HostBinding работать с Observable](https://habr.com/ru/companies/tinkoff/articles/542984/) | 26.02.2021 | 6 мин | :white_check_mark:
 [Angular: Показываем скелетон страницы за три шага](https://habr.com/ru/companies/tinkoff/articles/544948/) | 02.03.2021 | 5 мин | :white_large_square:
 [Как мы делаем базовые компоненты в Taiga UI более гибкими: концепция контроллеров компонента в Angular](https://habr.com/ru/companies/tinkoff/articles/546178/) | 09.03.2021 | 6 мин | :white_check_mark:
 [Angular Universal: проблемы реального приложения](https://habr.com/ru/companies/tinkoff/articles/547520/) | 17.03.2021 | 9 мин | :white_large_square:
