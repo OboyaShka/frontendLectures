@@ -6,7 +6,21 @@
 <summary>Что такое паттерн контроллера?</summary>
 <br>
 Бывают ситуации (например форма разбросана на несколько компонентов) и есть контролирующий её класс (компонент или директива). При стратегии OnPush при изменениях контроллера, зависящие дети не обновятся. В таком случае можно добавить Subject() и триггерить его при обновлениях, а в зависимых компонентах прокинуть его через DI и воспользоваться async пайпой.
-  <a href="https://stackblitz.com/edit/angular-controller-pattern?file=src%2Fapp%2Fapp.component.html">Пример</a>
+  <a href="https://stackblitz.com/edit/angular-controller-pattern?file=src%2Fapp%2Fapp.component.html">Пример 1</a>
+   <a href="https://github.com/OboyaShka/angular-wbb/tree/master/apps/angular-wbb/src/app/modules/di/examples/di-example8/di-example8/directives/controllers">Пример 2</a>
+</details>
+
+<details>
+<summary>Какие есть способы взаимодействия между компонентами и директивами?</summary>
+<br>
+<ul>
+<li>Outputs</li>
+<li>@Input() ngOnChanges + settes </li>
+<li>Shared service</li>
+<li>ViewRef trigger</li>
+<li>Template trigger</li>
+<li>Di get element</li>
+</ul>
 </details>
 
 ## Change Detection
