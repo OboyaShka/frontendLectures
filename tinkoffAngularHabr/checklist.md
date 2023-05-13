@@ -1,4 +1,4 @@
-# [IT’s Tinkoff — просто о сложном](https://habr.com/ru/companies/tinkoff/articles/) :white_check_mark: 11/93 
+# [IT’s Tinkoff — просто о сложном](https://habr.com/ru/companies/tinkoff/articles/) :white_check_mark: 12/93 
 
 Посты | Дата | Время чтения | Ознакомление
 :------------ | :------------ | :-------------|  :-------------|
@@ -50,7 +50,7 @@
 [Что можно положить в механизм Dependency Injection в Angular?](https://habr.com/ru/companies/tinkoff/articles/516622/) | 26.08.2020 | 5 мин | :white_check_mark:
 [Angular Meetup #18: как это было](https://habr.com/ru/companies/tinkoff/articles/518392/) | 09.09.2020 | 2 мин | :white_large_square:
 [5 советов для прокачки своих навыков в Angular](https://habr.com/ru/companies/tinkoff/articles/519052/) | 14.09.2020 | 9 мин | :white_large_square:
-[Возможности Angular DI, о которых почти ничего не сказано в документации](https://habr.com/ru/companies/tinkoff/articles/523160/) | 13.10.2020 | 6 мин | :white_large_square:
+[Возможности Angular DI, о которых почти ничего не сказано в документации](https://habr.com/ru/companies/tinkoff/articles/523160/) | 13.10.2020 | 6 мин | :white_check_mark:
 [Давайте сделаем переиспользуемый компонент tree view в Angular](https://habr.com/ru/companies/tinkoff/articles/525042/) | 26.10.2020 | 6 мин | :white_large_square:
 [Декларативный подход в Angular](https://habr.com/ru/companies/tinkoff/articles/527762/) | 12.11.2020 | 10 мин | :white_large_square:
 [Как мы распилили монолит. Часть 3, Frame Manager без фреймов](https://habr.com/ru/companies/tinkoff/articles/527922/) | 13.11.2020 | 6 мин | :white_large_square:
