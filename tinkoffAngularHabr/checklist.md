@@ -1,4 +1,4 @@
-# [IT’s Tinkoff — просто о сложном](https://habr.com/ru/companies/tinkoff/articles/) :white_check_mark: 15/93 
+# [IT’s Tinkoff — просто о сложном](https://habr.com/ru/companies/tinkoff/articles/) :white_check_mark: 16/93 
 
 Посты | Дата | Время чтения | Ознакомление
 :------------ | :------------ | :-------------|  :-------------|
@@ -23,7 +23,7 @@
 [Как заопенсорсить npm-пакет с нормальным деплоем, CI и демо (без потери радости к жизни)](https://habr.com/ru/companies/tinkoff/articles/467227/) | 30.09.2019 | 6 мин | :white_large_square:
 [SSEGWSW: Server-Sent Events Gateway by Service Workers](https://habr.com/ru/companies/tinkoff/articles/471718/) | 16.10.2019 | 6 мин | :white_large_square:
 [Компоненты-агностики в Angular](https://habr.com/ru/companies/tinkoff/articles/473108/) | 25.10.2019 | 11 мин | :white_large_square:
-[Создаем готовый для опенсорса проект на Angular в пару кликов](https://habr.com/ru/companies/tinkoff/articles/479360/) | 09.12.2019 | 3 мин | :white_large_square:
+[Создаем готовый для опенсорса проект на Angular в пару кликов](https://habr.com/ru/companies/tinkoff/articles/479360/) | 09.12.2019 | 3 мин | :white_check_mark:
 [5 вещей, которые я бы хотел знать, когда начинал использовать Angular](https://habr.com/ru/companies/tinkoff/articles/480782/) | 17.12.2019 | 14 мин | :white_check_mark:
 [Как организовать эффективную работу распределенной команды верстки](https://habr.com/ru/companies/tinkoff/articles/481978/) | 25.12.2019 | 10 мин | :white_large_square:
 [Делаем HTTP-запросы, изящно деградируем (и ни единого разрыва)](https://habr.com/ru/companies/tinkoff/articles/483756/) | 13.01.2020 | 5 мин | :white_large_square:
