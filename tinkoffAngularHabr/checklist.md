@@ -44,7 +44,7 @@
 [Пишем интеграционные тесты на фронтэнд и ускоряем релизы](https://habr.com/ru/companies/tinkoff/articles/508772/) | 29.06.2020 | 18 мин | :white_large_square:
 [Лабаем на MIDI-клавиатуре в Angular](https://habr.com/ru/companies/tinkoff/articles/508788/) | 30.06.2020 | 6 мин | :white_large_square:
 [Как перестать бояться и создать свой Angular CLI Builder](https://habr.com/ru/companies/tinkoff/articles/509810/) | 06.07.2020 | 6 мин | :white_large_square:
-[Нативный способ покрасить SVG-иконки](https://habr.com/ru/companies/tinkoff/articles/512082/) | 22.07.2020 | 2 мин | :white_large_square:
+[Нативный способ покрасить SVG-иконки](https://habr.com/ru/companies/tinkoff/articles/512082/) | 22.07.2020 | 2 мин | :white_check_mark:
 [Как писать хорошие библиотеки под Angular](https://habr.com/ru/companies/tinkoff/articles/512608/) | 27.07.2020 | 6 мин | :white_large_square:
 [Топ-10 Angular-приемов, выбранных сообществом](https://habr.com/ru/companies/tinkoff/articles/514928/) | 12.08.2020 | 4 мин | :white_large_square:
 [Что можно положить в механизм Dependency Injection в Angular?](https://habr.com/ru/companies/tinkoff/articles/516622/) | 26.08.2020 | 5 мин | :white_check_mark:
