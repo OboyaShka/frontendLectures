@@ -1,4 +1,4 @@
-# [IT’s Tinkoff — просто о сложном](https://habr.com/ru/companies/tinkoff/articles/) :white_check_mark: 16/93 
+# [IT’s Tinkoff — просто о сложном](https://habr.com/ru/companies/tinkoff/articles/) :white_check_mark: 19/93 
 
 Посты | Дата | Время чтения | Ознакомление
 :------------ | :------------ | :-------------|  :-------------|
@@ -13,7 +13,7 @@
 [Оптимизация обработки событий в Angular](https://habr.com/ru/companies/tinkoff/articles/429692/) | 14.11.2018 | 8 мин | :white_check_mark:
 [ControlValueAccessor и contenteditable в Angular](https://habr.com/ru/companies/tinkoff/articles/443714/) | 06.05.2019 | 5 мин | :white_large_square:
 [Сборка библиотеки angular-компонентов в виде веб-компонентов](https://habr.com/ru/companies/tinkoff/articles/456462/) | 17.06.2019 | 6 мин | :white_large_square:
-[Собираем окружение для современного TDD на JavaScript + VS code](https://habr.com/ru/companies/tinkoff/articles/461737/) | 29.07.2019 | 2 мин | :white_large_square:
+[Собираем окружение для современного TDD на JavaScript + VS code](https://habr.com/ru/companies/tinkoff/articles/461737/) | 29.07.2019 | 2 мин | :white_check_mark:
 [Подходы к управлению модулями в Angular (и не только)](https://habr.com/ru/companies/tinkoff/articles/467525/) | 15.09.2019 | 8 мин | :white_large_square:
 [По следам Angular Meetup #15](https://habr.com/ru/companies/tinkoff/articles/467645/) | 16.09.2019 | 1 мин | :white_large_square:
 [Обзор AngularConnect 2019. Часть 1](https://habr.com/ru/companies/tinkoff/articles/468471/) | 23.09.2019 | 5 мин | :white_large_square:
@@ -83,7 +83,7 @@
 [Дженерики в TypeScript](https://habr.com/ru/companies/tinkoff/articles/588655/) | 12.11.2021 | 10 мин | :white_large_square:
 [Div на div’е не сидит и div’ом не погоняет: пишем семантически верные индикаторы загрузки на Angular](https://habr.com/ru/companies/tinkoff/articles/589735/) | 17.11.2021 | 7 мин | :white_large_square:
 [Телеграф на RxJS](https://habr.com/ru/companies/tinkoff/articles/593165/) | 03.12.2021 | 9 мин | :white_large_square:
-[Пять причин для ИТ-компании полюбить опенсорс](https://habr.com/ru/companies/tinkoff/articles/593643/) | 06.12.2021 | 4 мин | :white_large_square:
+[Пять причин для ИТ-компании полюбить опенсорс](https://habr.com/ru/companies/tinkoff/articles/593643/) | 06.12.2021 | 4 мин | :white_check_mark:
 [Библиотека как продукт: от папки в проекте до международного опенсорса](https://habr.com/ru/companies/tinkoff/articles/597689/) | 24.12.2021 | 9 мин | :white_large_square:
 [7 + 1 способ анимировать спиннер](https://habr.com/ru/companies/tinkoff/articles/647021/) | 21.01.2022 | 6 мин | :white_large_square:
 [Taiga UI: год в Open Source](https://habr.com/ru/companies/tinkoff/articles/649685/) | 04.02.2022 | 4 мин | :white_large_square:
