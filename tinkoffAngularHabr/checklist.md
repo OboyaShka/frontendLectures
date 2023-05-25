@@ -1,4 +1,4 @@
-# [IT’s Tinkoff — просто о сложном](https://habr.com/ru/companies/tinkoff/articles/) :white_check_mark: 19/93 
+# [IT’s Tinkoff — просто о сложном](https://habr.com/ru/companies/tinkoff/articles/) :white_check_mark: 20/93 
 
 Посты | Дата | Время чтения | Ознакомление
 :------------ | :------------ | :-------------|  :-------------|
@@ -26,7 +26,7 @@
 [Создаем готовый для опенсорса проект на Angular в пару кликов](https://habr.com/ru/companies/tinkoff/articles/479360/) | 09.12.2019 | 3 мин | :white_check_mark:
 [5 вещей, которые я бы хотел знать, когда начинал использовать Angular](https://habr.com/ru/companies/tinkoff/articles/480782/) | 17.12.2019 | 14 мин | :white_check_mark:
 [Как организовать эффективную работу распределенной команды верстки](https://habr.com/ru/companies/tinkoff/articles/481978/) | 25.12.2019 | 10 мин | :white_large_square:
-[Делаем HTTP-запросы, изящно деградируем (и ни единого разрыва)](https://habr.com/ru/companies/tinkoff/articles/483756/) | 13.01.2020 | 5 мин | :white_large_square:
+[Делаем HTTP-запросы, изящно деградируем (и ни единого разрыва)](https://habr.com/ru/companies/tinkoff/articles/483756/) | 13.01.2020 | 5 мин | :white_check_mark:
 [Пишем свою стратегию для виртуального скролла из Angular CDK](https://habr.com/ru/companies/tinkoff/articles/484168/) | 16.01.2020 | 8 мин | :white_large_square:
 [Сказ о том, как я автоматизировал квартиру с помощью Node-RED. Часть I](https://habr.com/ru/companies/tinkoff/articles/487984/) | 12.02.2020 | 10 мин | :white_large_square:
 [Что такое производительность веб-приложений?](https://habr.com/ru/companies/tinkoff/articles/489230/) | 20.02.2020 | 5 мин | :white_large_square:
