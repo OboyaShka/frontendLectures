@@ -1,4 +1,4 @@
-# [IT’s Tinkoff — просто о сложном](https://habr.com/ru/companies/tinkoff/articles/) :white_check_mark: 20/93 
+# [IT’s Tinkoff — просто о сложном](https://habr.com/ru/companies/tinkoff/articles/) :white_check_mark: 21/93 
 
 Посты | Дата | Время чтения | Ознакомление
 :------------ | :------------ | :-------------|  :-------------|
@@ -63,7 +63,7 @@
 [Angular: Показываем скелетон страницы за три шага](https://habr.com/ru/companies/tinkoff/articles/544948/) | 02.03.2021 | 5 мин | :white_large_square:
 [Как мы делаем базовые компоненты в Taiga UI более гибкими: концепция контроллеров компонента в Angular](https://habr.com/ru/companies/tinkoff/articles/546178/) | 09.03.2021 | 6 мин | :white_check_mark:
 [Angular Universal: проблемы реального приложения](https://habr.com/ru/companies/tinkoff/articles/547520/) | 17.03.2021 | 9 мин | :white_large_square:
-[Глобальные объекты в Angular](https://habr.com/ru/companies/tinkoff/articles/548510/) | 29.03.2021 | 6 мин | :white_large_square:
+[Глобальные объекты в Angular](https://habr.com/ru/companies/tinkoff/articles/548510/) | 29.03.2021 | 6 мин | :white_check_mark:
 [Упрощаем работу с Angular с помощью @taiga-ui/cdk: 5 наших лучших практик](https://habr.com/ru/companies/tinkoff/articles/556660/) | 11.05.2021 | 5 мин | :white_large_square:
 [Angular Moscow Meetup #19: наш митап и там, и тут передают](https://habr.com/ru/companies/tinkoff/articles/558162/) | 19.05.2021 | 2 мин | :white_large_square:
 [RxJS Challenge: Неделя 1](https://habr.com/ru/companies/tinkoff/articles/559346/) | 26.05.2021 | 5 мин | :white_large_square:
