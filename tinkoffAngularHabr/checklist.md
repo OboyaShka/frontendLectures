@@ -1,4 +1,4 @@
-# [IT’s Tinkoff — просто о сложном](https://habr.com/ru/companies/tinkoff/articles/) :white_check_mark: 21/93 
+# [IT’s Tinkoff — просто о сложном](https://habr.com/ru/companies/tinkoff/articles/) :white_check_mark: 22/93 
 
 Посты | Дата | Время чтения | Ознакомление
 :------------ | :------------ | :-------------|  :-------------|
@@ -32,7 +32,7 @@
 [Что такое производительность веб-приложений?](https://habr.com/ru/companies/tinkoff/articles/489230/) | 20.02.2020 | 5 мин | :white_large_square:
 [Сказ о том, как я автоматизировал квартиру с помощью Node-RED. Часть II](https://habr.com/ru/companies/tinkoff/articles/489774/) | 25.02.2020 | 9 мин | :white_large_square:
 [Прокачиваем работу с событиями в Angular](https://habr.com/ru/companies/tinkoff/articles/492766/) | 17.03.2020 | 5 мин | :white_check_mark:
-[Декларативный шопинг в интернете с помощью Payment Request API и Angular](https://habr.com/ru/companies/tinkoff/articles/492700/) | 18.03.2020 | 5 мин | :white_large_square:
+[Декларативный шопинг в интернете с помощью Payment Request API и Angular](https://habr.com/ru/companies/tinkoff/articles/492700/) | 18.03.2020 | 5 мин | :white_check_mark:
 [Пишем Ретровейв на Angular](https://habr.com/ru/companies/tinkoff/articles/493622/) | 23.03.2020 | 10 мин | :white_large_square:
 [Angular для Vue разработчиков](https://habr.com/ru/companies/tinkoff/articles/495826/) | 06.04.2020 | 13 мин | :white_large_square:
 [Чистим код в Angular. Готовим ESLint, codelyzer, stylelint, husky, lint-staged и Prettier](https://habr.com/ru/companies/tinkoff/articles/497282/) | 15.04.2020 | 8 мин | :white_large_square:
