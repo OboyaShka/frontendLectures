@@ -1,4 +1,4 @@
-# [IT’s Tinkoff — просто о сложном](https://habr.com/ru/companies/tinkoff/articles/) :white_check_mark: 22/93 
+# [IT’s Tinkoff — просто о сложном](https://habr.com/ru/companies/tinkoff/articles/) :white_check_mark: 23/93 
 
 Посты | Дата | Время чтения | Ознакомление
 :------------ | :------------ | :-------------|  :-------------|
@@ -86,7 +86,7 @@
 [Пять причин для ИТ-компании полюбить опенсорс](https://habr.com/ru/companies/tinkoff/articles/593643/) | 06.12.2021 | 4 мин | :white_check_mark:
 [Библиотека как продукт: от папки в проекте до международного опенсорса](https://habr.com/ru/companies/tinkoff/articles/597689/) | 24.12.2021 | 9 мин | :white_large_square:
 [7 + 1 способ анимировать спиннер](https://habr.com/ru/companies/tinkoff/articles/647021/) | 21.01.2022 | 6 мин | :white_large_square:
-[Taiga UI: год в Open Source](https://habr.com/ru/companies/tinkoff/articles/649685/) | 04.02.2022 | 4 мин | :white_large_square:
+[Taiga UI: год в Open Source](https://habr.com/ru/companies/tinkoff/articles/649685/) | 04.02.2022 | 4 мин | :white_check_mark:
 [Три слоя градиента одного слайдера](https://habr.com/ru/companies/tinkoff/articles/667254/) | 23.05.2022 | 11 мин | :white_large_square:
 [(Микро)фронтенды и микросервисы с помощью Webpack](https://habr.com/ru/companies/tinkoff/articles/701152/) | 24.11.2022 | 8 мин | :white_large_square:
 [Год Тигра в Taiga UI](https://habr.com/ru/companies/tinkoff/articles/707050/) | 22.12.2022 | 8 мин | :white_check_mark:
