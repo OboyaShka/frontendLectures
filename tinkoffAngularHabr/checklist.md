@@ -1,4 +1,4 @@
-# [IT’s Tinkoff — просто о сложном](https://habr.com/ru/companies/tinkoff/articles/) :white_check_mark: 23/93 
+# [IT’s Tinkoff — просто о сложном](https://habr.com/ru/companies/tinkoff/articles/) :white_check_mark: 24/93 
 
 Посты | Дата | Время чтения | Ознакомление
 :------------ | :------------ | :-------------|  :-------------|
@@ -9,7 +9,7 @@
 [Формы и кастомные поля ввода в Angular 2+](https://habr.com/ru/companies/tinkoff/articles/323270/) | 25.05.2017 | 10 мин | :white_large_square:
 [Пишем телеграм бота-парсера вакансий на JS](https://habr.com/ru/companies/tinkoff/articles/337940/) | 03.10.2017 | 7 мин | :white_large_square:
 [Юнит-тестирование. Чип-тюнинг](https://habr.com/ru/companies/tinkoff/articles/349332/) | 15.03.2018 | 5 мин | :white_large_square:
-[Генератор статических сайтов metalsmith](https://habr.com/ru/companies/tinkoff/articles/353022/) | 28.04.2018 | 5 мин | :white_large_square:
+[Генератор статических сайтов metalsmith](https://habr.com/ru/companies/tinkoff/articles/353022/) | 28.04.2018 | 5 мин | :white_check_mark:
 [Оптимизация обработки событий в Angular](https://habr.com/ru/companies/tinkoff/articles/429692/) | 14.11.2018 | 8 мин | :white_check_mark:
 [ControlValueAccessor и contenteditable в Angular](https://habr.com/ru/companies/tinkoff/articles/443714/) | 06.05.2019 | 5 мин | :white_large_square:
 [Сборка библиотеки angular-компонентов в виде веб-компонентов](https://habr.com/ru/companies/tinkoff/articles/456462/) | 17.06.2019 | 6 мин | :white_large_square:
