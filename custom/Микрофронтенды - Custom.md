@@ -39,3 +39,32 @@
 - Использование разных фреймворков
 - Приемущества развёртования/обновления
 
+ Общие сущности | iframe | shadow dom | css modules | web worker
+:------------ | :------------ | :-------------|  :-------------|  :-------------|
+DOM | :white_check_mark: | :white_check_mark: | :white_large_square: | :white_large_square:
+CSS | :white_large_square: | :white_check_mark: | :white_check_mark: | :white_large_square:
+Globals | :white_check_mark: | :white_large_square: | :white_large_square: | :white_check_mark:
+Memory | :white_check_mark: | :white_large_square: | :white_large_square: | :white_large_square:
+Execution tread | :white_check_mark: | :white_large_square: | :white_large_square: | :white_check_mark:
+User events | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square:
+Network | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square:
+Page adress | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square:
+Cookies, cashe, db, local storage | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square:
+
+Всё, что нельзя инкапсулировать, это веб-контекст, с которым взаимодействуют все микрофронтенды.
+
+Технологии с помощью которых можно реализовать микрофронтенды
+- iframe
+- Module Federation
+- web components (custom elements)
+
+Критерий | + | -
+:------------ | :------------ | :------------ |
+Инкапсуляция | лучшие возможности, собственный window, контроль доступа через атрибуты allow/sandbox | 
+Простота встраивания | легко добавляется | ограниченное пространство отрисовки (попапы), расходы по памяти, ограниченное пространство отрисовки
+Возможность использования разных языков/фреймворков | Отсутствие ограничений | 
+Отсутствие дублирования кода | Один кэш для http | Нет специальных средств
+Взаимодействия |  | Нет простого способа взаимодействия с другими микрофронтендами. BroadcastChannel не работает в Safari. Обмен торлько через window.postMessage().
+Развёртование | Независимое | 
+
+
